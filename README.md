@@ -22,7 +22,7 @@
   <b>Amdox Technologies · Group 6 Internship 2026</b><br/>
   End-to-end retail analytics covering demand forecasting, churn prediction, customer segmentation, and inventory optimization — all served through an interactive Streamlit dashboard and a production-ready FastAPI.
 </p>
-
+<p>Members: Arunima Shiva, Mahendra Palsaniya, Venisha Snehal Dsouza, Soumya Jain, Divyanshi Sharma</p>
 ---
 
 ## 📑 Table of Contents
