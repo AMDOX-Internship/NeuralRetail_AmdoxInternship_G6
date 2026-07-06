@@ -57,7 +57,7 @@ NeuralRetail is a full-stack ML platform built on the **Online Retail II** datas
 
 ## 🎬 Live Demo & Video
 
-> **📺 Demo Video:** [Watch on YouTube / Google Drive](#) <!-- Replace # with your actual video link -->
+> **📺 Demo Video:** [Watch on YouTube / Google Drive](https://drive.google.com/file/d/1VAX0wmdKGeq5eL_nkIytmc_XtyAhErmJ/view?usp=sharing&t=5.206) 
 >
 > **🚀 Streamlit Cloud:** [Launch Dashboard → neuralretailamdoxinternshipg6.streamlit.app](https://neuralretailamdoxinternshipg6.streamlit.app/)
 >
